@@ -1,0 +1,78 @@
+
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Expert in HTML, CSS, and JavaScript, with proficiency in React.js for dynamic, responsive interfaces."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Skilled in Node.js and Express.js for robust server-side solutions and database integration."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Focused on crafting intuitive, visually appealing user experiences using Figma and Adobe XD."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Proficient in Webflow for creating SEO-friendly, interactive websites quickly and effectively."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Working with Ninsau Abdul Fatawu was fantastic! His attention to detail and problem-solving skills brought our project to life. Highly recommended!",
+      "author_name": "Dianne Russel",
+      "author_designation": "Ghana Aviation Authority"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "From start to finish, Ninsau Abdul Fatawu showed a high level of professionalism and dedication, going above and beyond to deliver outstanding results.",
+      "author_name": "Kristin Watson",
+      "author_designation": "Everpure company LTD"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "It was a pleasure working with Ninsau Abdul Fatawu. He was proactive and consistently went above and beyond to ensure our satisfaction. Recommended!",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "Ideation Axis"
+    }
+  ]
+}
