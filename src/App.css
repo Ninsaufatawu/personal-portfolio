@@ -812,15 +812,17 @@ input[type="checkbox"] {
   .navbar .logo{
     width: 100px;
     height: auto;
+    margin-top: 10px;
+    margin-left: -45px;
   }
   .hero--btn{
     justify-content: center;
     align-items: center;
-    left: 70px;
+    left: 50px;
   }
   .hero--icons{
     position: relative;
-    left: 70px;
+    left: 50px;
   }
   .hero--section-description{
     font-size: 20px;
