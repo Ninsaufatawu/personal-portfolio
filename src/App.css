@@ -818,7 +818,7 @@ input[type="checkbox"] {
   .hero--btn{
     justify-content: center;
     align-items: center;
-    left: 50px;
+    left: 35px;
   }
   .hero--icons{
     position: relative;
