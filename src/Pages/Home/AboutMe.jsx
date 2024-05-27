@@ -9,17 +9,11 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="about--description hero--section-description">
-          Hey there, I'm Ninsau Abdul Fatawu, a full-stack developer passionate about crafting exceptional digital experiences.
-          I specialize in front-end technologies like HTML, CSS, and JavaScript, along with frameworks like React.js. 
-          On the back end, I'm skilled in Node.js and Express.js, building robust server-side solutions. <br />
+          I'm Ninsau Abdul Fatawu, a full-stack developer passionate about crafting exceptional digital experiences. I specialize in front-end technologies like HTML, CSS, and JavaScript, with a focus on React.js. On the back end, I'm skilled in Node.js and Express.js, building robust server-side solutions.
+
           </p>
           <p className="about--description hero--section-description">
-          Outside of coding, I thrive on UI/UX design, using tools like Adobe XD and Figma to create intuitive interfaces. 
-          Whether it's refining user journeys or perfecting color palettes, I'm all about creating memorable experiences. <br />
-          </p>
-          <p className="about--description hero--section-description">
-          In my spare time, I'm constantly exploring new technologies, experimenting with side projects, and contributing to open-source communities.
-           I'm committed to continuous learning and pushing the boundaries of what's possible in the digital world.
+          I also thrive on UI/UX design, utilizing Adobe XD and Figma to create intuitive and memorable interfaces. In my spare time, I explore new technologies, work on side projects, and contribute to open-source communities, always aiming to push the boundaries of what's possible in the digital world.
           </p>
         </div>
       </div>

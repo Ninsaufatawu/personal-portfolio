@@ -31,21 +31,21 @@
       "id": "1",
       "src": "./img/placeholder-image.png",
       "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "A dynamic real estate website offering seamless property searches with advanced filters and interactive maps.",
       "link": "View In Github"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Streamlined for simplicity, it's your go-to for managing data with ease and clarity, empowering you to make informed decisions effortlessly.",
       "link": "View In Github"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "A renting platform connecting tenants with properties, providing easy search and secure transactions for hassle-free rentals.",
       "link": "View In Github"
     }
   ],
